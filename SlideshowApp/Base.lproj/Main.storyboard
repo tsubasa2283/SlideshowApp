@@ -32,7 +32,7 @@
                                     <action selector="BackButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HrT-YC-8Xi"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="apple1.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="v0y-9s-jhG">
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="apple1" translatesAutoresizingMaskIntoConstraints="NO" id="v0y-9s-jhG">
                                 <rect key="frame" x="50" y="144" width="328" height="375"/>
                                 <gestureRecognizers/>
                                 <connections>
@@ -123,7 +123,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="apple1.jpeg" width="500" height="375"/>
+        <image name="apple1" width="500" height="375"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
